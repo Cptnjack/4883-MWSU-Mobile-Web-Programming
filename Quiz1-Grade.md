@@ -8,5 +8,5 @@
 6. Push your folder to your github repository. (MOST OF THE POINTS).
 
 
-Notice #5. It also needed placed on your server, so I could view it properly.
+Notice #5. Code needed placed on your server, so I could view it properly.
 
